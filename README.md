@@ -13,7 +13,7 @@ Además, al utilizar GitHub como herramienta de almacenamiento, se garantiza la 
 | Grupo | Proyecto | Representante | Correo electrónico |
 |--------|----------|--------------|-------------------|
 | Grupo A | Pendiente | Pendiente | Pendiente |
-| Grupo B | Pendiente | Pendiente | Pendiente |
+| Grupo 7 | NexUs | Alejandro de los Reyes Pérez | alereyper@alum.us.es |
 | Grupo C | Pendiente | Pendiente | Pendiente |
 | Grupo 9 | Meerkatters | Alejandro Soult Toscano | alesoutos@alum.us.es |
 | Grupo E | Pendiente | Pendiente | Pendiente |

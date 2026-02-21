@@ -12,7 +12,7 @@ Además, al utilizar GitHub como herramienta de almacenamiento, se garantiza la 
 
 | Grupo | Proyecto | Representante | Correo electrónico |
 |:---:|:---:|:---:|:---:|
-| Grupo 6 | KeaKit | Guillermo Ciria González | gciria@us.es  |
+| Grupo 6 | KeaKit | Marta Aguilar Morcillo | maragumor@alum.us.es  |
 | Grupo 7 | NexUs | Alejandro de los Reyes Pérez | alereyper@alum.us.es |
 | Grupo 8 | Bookmerang | Adolfo Borrego González | adoborgon@alum.us.es |
 | Grupo 9 | Meerkatters | Alejandro Soult Toscano | alesoutos@alum.us.es |

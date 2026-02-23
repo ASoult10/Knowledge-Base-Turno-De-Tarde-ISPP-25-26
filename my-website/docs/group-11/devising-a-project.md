@@ -22,11 +22,6 @@ sidebar_position: 1
     * Nos avisan de que modelo de monetización por promoción no es seguro al principio, por la necesidad tan alta de usuarios, y porque la gente tiende a ignorar los eventos promocionados
     * Nos recomiendan que potenciemos la parte del sistema de recomendación
 
-*  **Acciones Tomadas / A realizar:**
-    * [Añadir...]
-
----
-
 ## [Entrega 1: DP] – [Fecha: 12/02/2026]
 
 ### 1. Nuestro Feedback Directo

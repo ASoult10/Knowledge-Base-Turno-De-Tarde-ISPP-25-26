@@ -23,6 +23,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ASoult10', // Usually your GitHub org/user name.
   projectName: 'Knowledge-Base-Turno-De-Tarde-ISPP-25-26', // Usually your repo name.
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
 

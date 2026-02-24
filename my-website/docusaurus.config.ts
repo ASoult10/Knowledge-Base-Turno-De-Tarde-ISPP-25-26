@@ -7,6 +7,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ISPP Knowledge Base',
   tagline: 'Knowledge base for the evening turn',
+  
+  trailingSlash: true,
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

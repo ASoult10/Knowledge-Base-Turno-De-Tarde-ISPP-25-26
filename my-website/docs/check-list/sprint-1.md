@@ -1,15 +1,14 @@
 ---
-title: Devising a Project
-sidebar_label: DP
+title: Sprint 1
+sidebar_label: S1
 sidebar_position: 1
 ---
 
 # Checklist: Contenido para la presentación
-### Sprint 1 - Semana 1
 
----
+## Sprint 1 - Semana 1
 
-## 🖼️ Estructura y Contenido de las Diapositivas
+**Estructura y Contenido de las Diapositivas**
 
 - [ ] **1. Killer Opener y Contexto (Breve):** Enganche súper rápido con la idea, presentación fugaz del equipo y una tabla visual de competidores vs. vuestros cores.
 - [ ] **2. Demo Visual:** Pantallazos reales o mockups de la interfaz actual. ¡Que se vea el producto desde ya!
@@ -23,3 +22,9 @@ sidebar_position: 1
 - [ ] **10. Finanzas (Breve):** Análisis económico rápido. Presupuesto total del proyecto vs. lo gastado hasta ahora (simulando vuestros sueldos/roles).
 
 ---
+
+### Sprint 1 - Semana 2
+
+**Estructura y Contenido de las Diapositivas**
+
+TODO

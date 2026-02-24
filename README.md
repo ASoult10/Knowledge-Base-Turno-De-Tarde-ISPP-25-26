@@ -1,5 +1,7 @@
 # Knowledge Base - Turno de Tarde - ISPP 25/26
 
+**Se pueden ver los documentos subidos [en este enlace](https://asoult10.github.io/Knowledge-Base-Turno-De-Tarde-ISPP-25-26/)**
+
 Repositorio destinado al almacenamiento de conocimiento común entre todos los grupos del turno de tarde en la asignatura de Ingeniería del Software y Práctica Profesional durante el curso 25/26, incluyendo feedbacks, mejoras detectadas, puntos a reforzar en entregas y cualquier aprendizaje derivado de las presentaciones.
 
 Este repositorio tiene como objetivo centralizar el conocimiento generado en clase para que todos los grupos puedan aprender de los errores y aciertos comunes, facilitando la mejora continua de las presentaciones y del proyecto.

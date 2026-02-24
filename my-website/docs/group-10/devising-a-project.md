@@ -57,24 +57,14 @@ sidebar_position: 1
   * **Actualización de entregables:** Incluir la info de Clockify en el Commitment Agreement.
 
 ###  2. Feedback General (Conocimiento Transversal)
-*Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*
+*Resumen ejecutivo de mejoras y cambios realizados por el equipo.*
 
-* **Presentación y Puesta en escena:**
-  * **Killer Opener:** Hacerlo incluyendo al público, pero con cuidado de no entrar en temas polémicos.
-  * **Storytelling:** Mantener un buen hilo argumental y enlazar bien los distintos puntos.
-  * **Gestión del tiempo:** Preparar diapositivas extra (que parezcan parte natural de la presentación) para entrar en detalle si se va demasiado rápido.
-  * **Legibilidad:** Controlar que los textos se lean bien y tener cuidado con la parte baja de la pantalla.
-
-* **Gestión del Proyecto y Planificación:**
-  * **Replanificación:** Contar con el tiempo extra que supondrá procesar el feedback de los usuarios piloto. ¿Cómo se va a lidiar con esa info?
-  * **Calendario:** Tener en cuenta las semanas no lectivas para planificar los sprints.
-  * **Trazabilidad:** Importancia de medir las acciones que se están tomando.
-
-* **Requisitos y Herramientas:**
-  * **Checklist:** Usar una checklist para asegurar que no falte contenido obligatorio (como tener un buen DAFO).
-  * **Visuales obligatorios:** Lo que se pide explícitamente para cada semana tiene que tener soporte visual en las diapositivas sí o sí.
-  * **Integración Continua (CI):** Ser mucho más explícitos al explicarla.
-  * **Sostenibilidad de herramientas:** Probar y asegurar que los créditos/licencias de las herramientas elegidas aguantarán hasta el final del curso sin caducar.
+- **Clarificación del modelo de negocio:** Se redefinió la distinción entre usuario y cliente que paga; la lógica de ingresos y la justificación de precios están estructuradas.
+- **Reordenación del flujo:** El análisis de competidores se movió antes del modelo de negocio para mejorar la coherencia argumentativa.
+- **Ampliación del análisis de competidores:** Se añadió una comparativa más desarrollada centrada en casos de uso core.
+- **Refinamiento de la propuesta de valor:** El planteamiento del problema se reformuló para evitar un enfoque excesivamente amplio y gestionar expectativas.
+- **Rediseño visual:** Mejoras en tipografía (más grande), contraste, aprovechamiento del espacio y numeración de diapositivas.
+- **Gestión del tiempo:** Ensayos realizados para asegurar uso completo del tiempo asignado.
 
 ---
 
@@ -103,11 +93,14 @@ sidebar_position: 1
 ###  2. Feedback General (Conocimiento Transversal)
 *Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*
 
-* **Integración Narrativa de Mockups:** Aunque tenemos mockups navegables, la recomendación general sugiere integrarlos mejor con historias de usuario en lugar de mostrarlos como pantallas aisladas.
-* **Autocontención del Discurso:** Importancia de no dar por hecho que el tribunal recuerda los detalles de presentaciones anteriores; cada entrega debe entenderse por sí sola (refuerza nuestro punto de mejorar la claridad inicial).
-* **Cobertura de Requisitos:** Recordatorio de revisar la rúbrica punto por punto para asegurar que no se queda ningún apartado obligatorio sin cubrir.
-* **Participación Activa:** Necesidad de aportar feedback constructivo a los demás grupos durante sus exposiciones.
-* **Refuerzo de Identidad:** Sugerencia de uso de elementos diferenciadores extra (ej: mascota o iconografía propia) para potenciar la marca visual.
+- **Refuerzo de la estructura de apertura:** El Key Opener fue rediseñado para comunicar el problema central y la propuesta de valor desde las primeras diapositivas.
+- **Diferenciación temprana:** La diferenciación estratégica se introdujo antes en la presentación para consolidar el posicionamiento desde el inicio.
+- **Definición clara del ICP:** El Perfil de Cliente Ideal (ICP) fue definido explícitamente e integrado dentro de la narrativa.
+- **Refinamiento del enfoque estratégico:** El nicho inicial se acotó para garantizar una escalabilidad más realista.
+- **Cierre comparativo:** Se añadió una diapositiva final de comparación estructurada tras el análisis de competidores y el DAFO.
+- **Reducción de redundancia:** El guion fue simplificado para mejorar la claridad y evitar repeticiones.
+- **Terminología empresarial y KPIs:** Uso explícito de términos B2B/B2C y KPIs con umbrales medibles.
+- **Ensayo de la comunicación:** Ensayos centrados en ritmo, contacto visual y adaptación a audiencias no técnicas.
 
 ---
 

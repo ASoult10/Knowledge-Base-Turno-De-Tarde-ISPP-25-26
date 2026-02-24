@@ -104,34 +104,5 @@ sidebar_position: 1
 
 ---
 
-**Otros grupos — Observaciones (12/02/2026):**
-
-- **Fortalezas:**
-  - Análisis de competidores más sólido.
-  - Buena comparación en base a casos de uso core.
-  - Evolución positiva respecto a la entrega anterior.
-  - Mayor claridad estratégica en la diferenciación frente a otros productos.
-
-- **Debilidades en DP:**
-  - Inicio y narrativa: mejorar la conexión entre el Key Opener y el Elevator Pitch.
-  - Potenciar el impacto del Key Opener desde el primer minuto.
-  - Foco insuficiente en el perfil de usuario piloto (ICP).
-
-- **Comunicación:**
-  - Mejorar contacto visual (mirar a toda la audiencia).
-  - Evitar tecnicismos innecesarios.
-  - Adaptar el discurso a público no técnico.
-
-- **Orden del contenido:**
-  - Presentar primero las funcionalidades clave y después el análisis de competidores.
-  - Incluir una comparativa final clara tras DAFO y competidores.
-  - Si se afirma que no hay competidores directos, justificarlo explícitamente.
-  - Definir con precisión el concepto de “uso cotidiano” como elemento diferencial.
-
-- **Estrategia:**
-  - Afinar el nicho inicial (empezar pequeño y escalar).
-  - Usar terminología de negocio (B2B, B2C, etc.).
-  - Si se presentan KPIs, indicar umbrales concretos.
-
 
 

@@ -4,6 +4,51 @@ sidebar_label: DP
 sidebar_position: 1
 ---
 
+##  [Entrega 2: S1] - Fecha: 19/02/2026
+
+###  1. Nuestro Feedback Directo
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+* 🟢 **Fortalezas (Qué hemos hecho bien):**
+  * **Diseño y fluidez:** Diseño muy bueno, limpio y atractivo. Exposición muy bien hilada, coherente y fluida. 
+  * **Producto visual:** Muy buenos mockups. Buen uso de colores intensos en la matriz DAFO.
+  * **Enganche inicial:** Les ha gustado mucho el comienzo y cómo se presentó la idea de la app.
+  * **Validación real (Gran punto):** Muy bien valorado el hecho de salir a la calle e ir a una residencia a hablar con un usuario real.
+
+* 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
+  * **Falta de síntesis en la idea:** Hace falta resumir la idea en una sola frase (Elevator pitch).
+  * **Carencias visuales y de datos:** Alguna slide necesita estar mejor ilustrada (ej: pros y contras). Al planning de los sprints (Gantt) le falta texto explicativo.
+  * **Análisis de competencia:** Cuidado al hablar de competidores "legacy"; no usar argumentos subjetivos (como "interfaz moderna e intuitiva"), sino centrarse en el CORE y el diferenciador real.
+  * **Commitment Agreement:** Faltaba información clave (por ejemplo, mencionar herramientas como Clockify).
+
+* 🛠️ **Acciones Tomadas / A realizar:**
+  * **Migración de Base de Conocimiento:** Abandono del Excel y paso a "documentación como código" (Markdown en repositorio) para mejorar la agilidad y trazabilidad, tal como sugirieron.
+  * **Pruebas de entorno:** Aprovechar el acceso al aula los miércoles (14:30-15:30) para pedir el mando y probar la proyección (legibilidad y tema de la pantalla baja).
+  * **Refinamiento de discurso:** Redactar el Elevator Pitch de una frase y corregir las métricas de la competencia por datos objetivos.
+  * **Actualización de entregables:** Incluir la info de Clockify en el Commitment Agreement.
+
+###  2. Feedback General (Conocimiento Transversal)
+*Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*
+
+* **Presentación y Puesta en escena:**
+  * **Killer Opener:** Hacerlo incluyendo al público, pero con cuidado de no entrar en temas polémicos.
+  * **Storytelling:** Mantener un buen hilo argumental y enlazar bien los distintos puntos.
+  * **Gestión del tiempo:** Preparar diapositivas extra (que parezcan parte natural de la presentación) para entrar en detalle si se va demasiado rápido.
+  * **Legibilidad:** Controlar que los textos se lean bien y tener cuidado con la parte baja de la pantalla.
+
+* **Gestión del Proyecto y Planificación:**
+  * **Replanificación:** Contar con el tiempo extra que supondrá procesar el feedback de los usuarios piloto. ¿Cómo se va a lidiar con esa info?
+  * **Calendario:** Tener en cuenta las semanas no lectivas para planificar los sprints.
+  * **Trazabilidad:** Importancia de medir las acciones que se están tomando.
+
+* **Requisitos y Herramientas:**
+  * **Checklist:** Usar una checklist para asegurar que no falte contenido obligatorio (como tener un buen DAFO).
+  * **Visuales obligatorios:** Lo que se pide explícitamente para cada semana tiene que tener soporte visual en las diapositivas sí o sí.
+  * **Integración Continua (CI):** Ser mucho más explícitos al explicarla.
+  * **Sostenibilidad de herramientas:** Probar y asegurar que los créditos/licencias de las herramientas elegidas aguantarán hasta el final del curso sin caducar.
+
+---
+
 ##  [Entrega 1: DP] - Fecha: 12/02/2026
 
 ###  1. Nuestro Feedback Directo

@@ -13,18 +13,32 @@ sidebar_position: 1
   * **Estrategia y negocio:** Idea clara desde el inicio con una diferenciación temprana. Justificación sólida de precios, competidores y plan de crecimiento. Segmentación correcta de usuarios piloto y feedback almacenado.
   * **Gestión técnica y de proyecto:** Mockups navegables y consideración de riesgos técnicos con CI/CD. Cumplimiento del "commitment agreement".
   * **Comunicación y diseño:** "Killer opener" conectado con utilidad real e inicio visual potente. Buen control del tiempo, ritmo y síntesis. Diseño estratégico (menos texto, marca unificada) y presentación autocontenida.
+  * **Gestión y seguimiento del proyecto:** Buen cumplimiento del *Commitment Agreement* y uso adecuado de herramientas de seguimiento del tiempo como Clockify para la organización del trabajo del equipo.
+  * **Progreso en confianza escénica:** Mejora en la seguridad al exponer frente al público, mostrando mayor naturalidad durante la presentación.
 
 * 🔴 **Debilidades (Áreas de mejora y puntos de dolor):**
   * **Fallos en el mensaje y estrategia:** La idea no quedó clara al inicio y la diferenciación llegó tarde. Justificación débil de precios y una expansión mal definida.
   * **Gestión y organización:** Procesos y riesgos no explicados, segmentación poco clara y feedback sin estructurar.
   * **Puesta en escena (Formas):** Hablamos demasiado rápido, con redundancias y movimiento excesivo. Error crítico: Tapamos la pantalla y miramos solo al profesor.
   * **Errores de diseño visual:** Demasiado texto, letra pequeña y diapositivas sobrecargadas. DAFO y competidores poco visibles; información importante escondida. La presentación no era autocontenida y el esquema de colores no queda claro.
+  * **Killer opener y orientación escénica:** El inicio de la presentación debe proyectarse mirando hacia el público y no hacia la pantalla, para reforzar el impacto inicial.
+  * **Estructura de la narrativa:** El *killer opener* debe estar mejor conectado con el resto de la presentación para mantener un hilo narrativo claro desde el problema inicial hasta la solución propuesta.
+  * **Exceso de mockups:** Se presentaron demasiadas pantallas antes de explicar el núcleo del producto. Es recomendable introducir primero el **core del proyecto** y posteriormente los mockups como apoyo visual.
+  * **Análisis estratégico (DAFO):** Las amenazas identificadas deben relacionarse explícitamente con oportunidades o estrategias que permitan compensarlas.
+  * **Gestión de riesgos:** Los mecanismos de medición y seguimiento de riesgos necesitan ser más concretos y medibles.
+  * **Comunicación oral:** Necesidad de mejorar la **vocalización y el volumen de voz** para asegurar que toda la audiencia pueda seguir la presentación con claridad.
+
 
 * 🛠️ **Acciones Tomadas / A realizar (Mejoras de formato y planificación):**
   * **Gestión de la atención:** Traslado de los códigos QR al final de la exposición para evitar distracciones y mantener el foco en el equipo.
   * **Planificación técnica:** Simplificación del diagrama de Gantt, detallado específicamente por sprints.
   * **Diseño visual:** Optimización del diseño reduciendo la carga de texto y aumentando el apoyo gráfico (imágenes) para facilitar la comprensión. Se indica el significado de cada leyenda o elemento visual.
   * **Puesta en escena:** Exposición reubicada; ya no se tapará la pantalla, los ponentes se posicionarán al lado.
+  * Reforzar el **killer opener** para que conecte directamente con el problema y sirva como hilo conductor de toda la presentación.
+  * Reordenar la exposición introduciendo primero el **core del producto** y utilizando los mockups únicamente como soporte visual posterior.
+  * Mejorar el **DAFO estratégico**, vinculando cada amenaza con su oportunidad o estrategia de mitigación.
+  * Definir **indicadores concretos para la medición de riesgos**, facilitando su seguimiento durante el desarrollo del proyecto.
+  * Trabajar la **proyección de voz, vocalización y contacto visual frontal** para mejorar la claridad y presencia escénica.
 
 ###  2. Feedback General (Conocimiento Transversal)
 *Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*

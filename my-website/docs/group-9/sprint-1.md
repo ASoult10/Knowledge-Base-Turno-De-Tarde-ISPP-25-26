@@ -1,6 +1,6 @@
 ---
 title: Devising a Project
-sidebar_label: DP
+sidebar_label: S1
 sidebar_position: 1
 ---
 
@@ -32,7 +32,13 @@ sidebar_position: 1
   - El soporte visual no siempre acompaña adecuadamente la explicación oral.
   
 * **Acciones Tomadas / A realizar:**
-  - 
+  - Se ha reestructurado las diapositivas de forma que siempre haya fluidez y coherencia narrativa entre las secciones.
+  - Se ha eliminado los competidores menos relevantes de la presentación.
+  - Se ha considerado la idea de grabar en vídeo la funcionalidad de la demo.
+  - Se ha corregido el diagrama de gantt, cambiando colores y detallándolo más.
+  - Se ha desglosado el presupuesto en la presentación.
+  - Se ha considerado hacer gráficas para señalizar el punto de equilibrio entre gastos y ganancias.
+  - Se ha planeado introducir los elementos visual de forma que se adapten al discurso, y no al revés.
 
 ---
 

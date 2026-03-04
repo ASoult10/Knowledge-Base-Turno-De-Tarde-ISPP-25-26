@@ -1,3 +1,9 @@
+---
+title: Sprint 1
+sidebar_label: S1
+sidebar_position: 1
+---
+
 # Feedback y Mejoras
 
 ## [Entrega 2: S1 (Mid)] - Fecha: 26/02/2026

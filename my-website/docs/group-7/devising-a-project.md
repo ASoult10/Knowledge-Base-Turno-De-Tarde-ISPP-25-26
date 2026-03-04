@@ -4,7 +4,7 @@ sidebar_label: DP
 sidebar_position: 1
 ---
 
-##  [Primera Mitad S1] - Fecha: 26/02/2026
+##  [Entrega 2: S1] - Fecha: 26/02/2026
 
 ###  1. Nuestro Feedback Directo
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*

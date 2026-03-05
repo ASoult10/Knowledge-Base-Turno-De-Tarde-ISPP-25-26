@@ -1,3 +1,9 @@
+---
+title: Sprint 1
+sidebar_label: S1
+sidebar_position: 2
+---
+
 # Feedback Grupo 7 NexUs
 ##  [Entrega 2: S1] - Fecha: 26/02/2026
 

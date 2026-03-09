@@ -1,5 +1,5 @@
 ---
-title: Devising a Project
+title: Sprint 1
 sidebar_label: S1
 sidebar_position: 1
 ---
@@ -48,10 +48,45 @@ sidebar_position: 1
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 * 🟢 **Fortalezas (Qué hemos hecho bien):**
-  - TODO
+  - El stack tecnológico del proyecto ha sido bien valorado y se considera adecuado.
+  - La imagen de marca del proyecto y la mascota han gustado tanto a alumnos como a profesores.
+  - El análisis de competidores uno a uno se ha considerado claro y bien estructurado.
+  - El desglose de costes ha sido valorado positivamente por su nivel de detalle.
+  - La demo del producto se ha entendido bien y permite visualizar correctamente la aplicación.
+  - La exposición del equipo ha sido destacada como una de las fortalezas principales.
+  - La forma general de presentar ha gustado a los profesores.
+  - El hilo conductor basado en responder preguntas ha sido considerado muy efectivo.
+  - Ha gustado que el equipo haya llegado a la demo con tranquilidad y sin precipitación.
+  - Se ha valorado positivamente incluir medidas más allá del simple conteo de horas de trabajo.
+  - La organización del Gantt por equipos permite identificar bien qué tareas realiza cada grupo.
+  - El uso de pair programming se considera una buena práctica dentro del equipo.
 
 * 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-  - TODO
+  - Algunas diapositivas siguen estando demasiado cargadas de texto.
+  - Los elementos gráficos o ilustraciones deberían tener una función más representativa y menos decorativa.
+  - Aunque la mascota ha gustado, en algunos casos ocupa espacio que podría usarse para información relevante.
+  - El uso de algunos colores (especialmente rojo) transmite sensación de alerta y no coincide con la identidad visual del proyecto.
+  - En la demo se debería priorizar mostrar funcionalidades core y no tanto procesos como login o autenticación.
+  - Algunos casos de uso mostrados no se consideran realmente core.
+  - La comparativa con competidores debería mostrarse en una diapositiva independiente con una tabla clara.
+  - El presupuesto presenta un problema importante porque el retorno de inversión estimado en 19 años se considera poco realista.
+  - El feedback de usuarios piloto no debería limitarse a formularios y debería incluir contacto directo para observar su comportamiento al usar la aplicación.
+  - La matriz RACI aparece algo desconectada del hilo conductor de la presentación.
+  - La matriz RACI no era obligatoria, por lo que se podría haber dedicado ese tiempo a reforzar otros aspectos.
+  - El killer opener no ha tenido suficiente protagonismo y da sensación de haber sido preparado con prisa.
+  - Se recomienda que el killer opener y la demo aparezcan al principio de la presentación.
+  - Los KPIs deberían mostrarse junto con su seguimiento o evolución.
+  - Los riesgos deberían representarse de forma más visual mostrando problema, solución y medida.
+  - El Gantt tiene poca granularidad y muestra tareas demasiado generales por semana.
 
 * **Acciones Tomadas / A realizar:**
-  - TODO
+  - Se ha procedido a borrar todo el texto de las diapositivas demasiado cargadas.
+  - Se ha revisado las ilustraciones y su disposición, y se ha asegurado de que cada una tiene la explicación suficiente sin cargarlas de texto.
+  - Se ha modificado los colores para que siempre se alineen con los colores del proyecto.
+  - Se ha movido la demo al inicio de la presentación.
+  - Se ha propuesto realizar de nuevo la comparación de competidores en una tabla sola.
+  - Se ha propuesto incluir detalles de feedbacks de usuarios pilotos para la próxima presentación.
+  - Se ha eliminado la matriz RACI de la presentación, usando los diagramas de Gantt para explicar la relevancia de cada Squad en las actividades.
+  - Se ha propuesto alargar un poco la duración del killer opener, además de coger datos de la demo en base a este.
+  - Se ha cambiado la disposición de los riesgos.
+  - Se ha cambiado el Gantt para mostrar más tareas, además de separarlos en más diagramas.

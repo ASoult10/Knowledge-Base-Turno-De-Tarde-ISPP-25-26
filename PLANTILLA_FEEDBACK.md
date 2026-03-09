@@ -13,21 +13,12 @@
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 * 🟢 **Fortalezas (Qué hemos hecho bien):**
-  * [Añadir...]
+  - [Añadir...]
 
 * 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-    * [Añadir...]
+  - [Añadir...]
 
 *  **Acciones Tomadas / A realizar:**
-    * [Añadir...]
-
-###  2. Feedback a Otros Grupos (Conocimiento Transversal)
-*Anotaciones objetivas de lo que los profesores han comentado a los demás grupos durante sus respectivas exposiciones.*
-
-* **Grupo [Número]:** * [Ej: Los profesores les indicaron que el modelo de suscripción no estaba bien justificado frente a la competencia.]
-  * [Ej: Les felicitaron por tener un plan de contingencia de riesgos muy realista y detallado.]
-
-* **Grupo [Número]:** * [Ej: Les penalizaron por no incluir capturas de las métricas de calidad de código en la presentación.]
-  * [Ej: Les recomendaron no usar texto tan pequeño en las diapositivas de arquitectura.]
+  - [Añadir...]
 
 ---

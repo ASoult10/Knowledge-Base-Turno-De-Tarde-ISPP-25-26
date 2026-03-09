@@ -37,13 +37,13 @@ Además, al utilizar GitHub como herramienta de almacenamiento, se garantiza la 
 
 ##  Calendario y Orden de Exposiciones
 
-| Fecha | 1º (15:30) | 2º | 3º |  Descanso (17:20) | 4º (17:40) | 5º | 6º |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|      Fecha     | 1º (15:30) | 2º | 3º |  Descanso (17:20) | 4º (17:40) | 5º | 6º |
+|:--------------:|:----------:|:--:|:--:|:-----------------:|:----------:|:--:|:--:|
 | **05/02/2026** | Grupo 10 | Grupo 6 | Grupo 7 | - | Grupo 9 | Grupo 8 | Grupo 11 |
 | **12/02/2026** | Grupo 11 | Grupo 6 | Grupo 7 | - | Grupo 9 | Grupo 8 | Grupo 10 |
 | **19/02/2026** | Grupo 10 | Grupo 11 | Grupo 6 | - | Grupo 7 | Grupo 9 | Grupo 8 |
 | **26/02/2026** | Grupo 10 | Grupo 11 | Grupo 6 | - | Grupo 7 | Grupo 9 | Grupo 8 |
-| **05/03/2026** | | | | - | | | |
+| **05/03/2026** | | | Grupo 9 | - | | | Grupo 6 |
 | **12/03/2026** | | | | - | | | |
 | **19/03/2026** | | | | - | | | |
 | **26/03/2026** | | | | - | | | |

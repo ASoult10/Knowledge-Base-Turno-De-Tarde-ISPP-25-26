@@ -54,3 +54,39 @@ sidebar_position: 2
         * Diferenciación de costes según fases del proyecto.
     * Comparar el presupuesto proyectado con la estimación de usuarios potenciales para analizar la sostenibilidad económica.
     * Definir métricas para medir la efectividad de las acciones de mitigación ante riesgos e incidencias.
+
+  ##  [Entrega 2: S1] - Fecha: 05/03/2026
+
+###  1. Nuestro Feedback Directo
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+* 🟢 **Fortalezas (Lo que hemos logrado y debemos mantener):**
+  * **Demostración del producto:** La demo del sistema fue clara y permitió visualizar el funcionamiento de la aplicación. El uso de comentarios y pequeños elementos de humor ayudó a mantener la atención del público durante la explicación.
+  * **Paralelización del trabajo:** Se valoró positivamente la capacidad del equipo para trabajar en paralelo en distintas tareas durante el sprint, lo que favorece la eficiencia del desarrollo.
+  * **Retrospectiva del sprint:** La retrospectiva fue completa y permitió identificar tanto los problemas surgidos durante el sprint como las soluciones aplicadas.
+  * **Gestión de incidencias:** La exposición de los problemas encontrados y las soluciones propuestas fue clara y bien estructurada.
+  * **Planificación financiera:** La gráfica de presupuesto con identificación de puntos de ruptura fue valorada positivamente como herramienta para analizar la sostenibilidad económica del proyecto.
+
+* 🔴 **Debilidades (Áreas de mejora y puntos de dolor):**
+  * **Duración de la demo:** Aunque la demostración fue correcta, se recomienda reducir ligeramente su duración para mantener un ritmo más dinámico durante la presentación.
+  * **Comunicación oral:** Se detectaron algunas muletillas durante la exposición y signos de nerviosismo que pueden afectar a la claridad del discurso.
+  * **Elementos visuales poco relevantes:** Algunos recursos gráficos utilizados durante la explicación del sprint review (por ejemplo, ciertos dibujos o elementos decorativos) no aportaban información significativa al contenido presentado.
+  * **Análisis del burndown:** Es necesario profundizar en la interpretación del burndown chart, analizando posibles cuellos de botella, cambios de ritmo en el desarrollo o escalones en la evolución del trabajo.
+  * **Exceso de transparencias en la sección de problemas:** Aunque la identificación de problemas fue adecuada, el número de diapositivas utilizadas resultó excesivo. Se recomienda centrarse en incidencias más generales o representativas.
+  * **Descompensación de horas de trabajo:** Se detectaron desequilibrios en la distribución del esfuerzo entre miembros del equipo, lo que requiere medidas de ajuste.
+  * **Seguimiento de desviaciones en tareas:** Es necesario implementar mecanismos que permitan monitorizar de forma sistemática las desviaciones respecto a la planificación inicial.
+  * **Medición de la calidad del trabajo:** Debe diferenciarse entre completar una tarea y garantizar la calidad de la contribución realizada.
+  * **Coordinación entre equipos:** Es necesario evaluar si la coordinación entre subequipos está funcionando correctamente y si los responsables están facilitando adecuadamente la comunicación y el seguimiento del trabajo.
+  * **Análisis financiero incompleto:** Aunque la gráfica de presupuesto fue positiva, se recomienda incluir estimaciones optimistas y pesimistas para reflejar distintos escenarios posibles.
+
+* 🛠️ **Acciones Tomadas / A realizar (Mejoras de formato y planificación):**
+  * Reducir ligeramente la duración de la **demo del producto**, manteniendo únicamente los pasos más representativos del funcionamiento del sistema.
+  * Trabajar la **comunicación oral**, reduciendo muletillas y mejorando la seguridad durante la exposición.
+  * Revisar los **elementos visuales utilizados en la presentación**, eliminando aquellos que no aporten valor informativo.
+  * Realizar un **análisis más profundo del burndown chart**, identificando posibles cuellos de botella, variaciones en el ritmo de trabajo y patrones en la evolución del sprint.
+  * Sintetizar la **sección de problemas detectados**, agrupando incidencias similares y priorizando las más relevantes para el proyecto.
+  * Implementar medidas para **equilibrar la distribución de horas de trabajo** entre los miembros del equipo.
+  * Diseñar un sistema de **monitorización de desviaciones en tareas**, que permita identificar con mayor precisión retrasos o cambios en la planificación.
+  * Incorporar mecanismos para **evaluar la calidad de las contribuciones**, diferenciándola del simple cumplimiento de tareas asignadas.
+  * Mejorar la **coordinación entre subequipos**, por ejemplo mediante métricas de seguimiento específicas o análisis del progreso por equipo.
+  * Ampliar el **análisis del presupuesto**, incluyendo escenarios optimistas y pesimistas que permitan evaluar distintos niveles de riesgo financiero.

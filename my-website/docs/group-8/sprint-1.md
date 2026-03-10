@@ -43,6 +43,49 @@ sidebar_position: 1
 
 ---
 
+## [Entrega 2: S1 (Final)] - Fecha: 05/03/2026
+
+### 1. Nuestro Feedback Directo #
+
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+- 🟢 **Fortalezas (Qué hemos hecho bien):**
+
+  - **Stack tecnológico:** El stack tecnológico del proyecto ha sido bien valorado y se considera adecuado para las necesidades del proyecto.
+  - **Hilo conductor:** El hilo conductor de la presentación basado en responder preguntas ha sido considerado muy efectivo y ha permitido mantener la coherencia.
+  - **Demo:** La demo del producto se ha entendido bien y permite visualizar correctamente la aplicación. Se valora positivamente haber llegado a la demo con tranquilidad y sin precipitación.
+  - **Exposición del equipo:** La forma general de presentar y la coordinación del equipo han gustado a los profesores.
+  - **Mejoras implementadas:** Se ha valorado positivamente la reacción al feedback anterior, especialmente en la organización del Gantt por equipos y la inclusión de medidas más allá del simple conteo de horas.
+  - **Prácticas de desarrollo:** El uso de pair programming se considera una buena práctica dentro del equipo.
+
+- 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
+
+  - **Killer Opener:** El killer opener no ha tenido suficiente protagonismo y da sensación de haber sido preparado con prisa. Debe aparecer al principio junto con la demo.
+  - **Foco en funcionalidades core:** En la demo se debería priorizar mostrar funcionalidades core y no tanto procesos como login o autenticación. Algunos casos de uso mostrados no se consideran realmente core.
+  - **Diseño de diapositivas:** Algunas diapositivas siguen estando demasiado cargadas de texto. Los elementos gráficos deberían tener una función más representativa y menos decorativa.
+  - **Identidad visual:** El uso de algunos colores (especialmente rojo) transmite sensación de alerta y no coincide con la identidad visual del proyecto.
+  - **Análisis de competidores:** La comparativa con competidores debería mostrarse en una diapositiva independiente con una tabla clara.
+  - **Presupuesto:** El retorno de inversión estimado en 19 años se considera poco realista y debe revisarse.
+  - **Feedback de usuarios piloto:** El feedback de usuarios piloto no debería limitarse a formularios; debe incluir contacto directo para observar su comportamiento al usar la aplicación.
+  - **Matriz RACI:** La matriz RACI aparece algo desconectada del hilo conductor de la presentación. No era obligatoria, por lo que se podría haber dedicado ese tiempo a reforzar otros aspectos.
+  - **KPIs:** Los KPIs deberían mostrarse junto con su seguimiento o evolución, no solo como valores estáticos.
+  - **Representación de riesgos:** Los riesgos deberían representarse de forma más visual mostrando problema, solución y medida.
+  - **Granularidad del Gantt:** El Gantt tiene poca granularidad y muestra tareas demasiado generales por semana.
+
+- 🔧 **Acciones Tomadas / A realizar:**
+
+  - **Optimización de diapositivas:** Se ha procedido a eliminar el texto excesivo de las diapositivas y revisar las ilustraciones para asegurar que cada una tiene función representativa.
+  - **Alineación de colores:** Se han modificado los colores para que siempre se alineen con la identidad visual del proyecto.
+  - **Reorganización de la presentación:** Se ha movido la demo al inicio de la presentación junto con un killer opener más desarrollado.
+  - **Comparativa de competidores:** Se ha propuesto realizar de nuevo la comparación de competidores en una tabla independiente clara.
+  - **Eliminación de contenido no esencial:** Se ha eliminado la matriz RACI de la presentación, usando los diagramas de Gantt para explicar la relevancia de cada Squad.
+  - **Mejora del Gantt:** Se ha modificado el Gantt para mostrar más tareas con mayor detalle, separándolo en más diagramas.
+  - **Revisión de riesgos:** Se ha cambiado la disposición y representación de los riesgos para hacerlos más visuales.
+  - **Estrategia de usuarios piloto:** Se ha propuesto incluir detalles de feedbacks de usuarios piloto con contacto directo para las próximas presentaciones.
+  - **Revisión del presupuesto:** Pendiente revisar el modelo de retorno de inversión para hacerlo más realista.
+
+---
+
 ### 2. Qué tener para la semana que viene #
 
 *Requisitos y contenido esperado para la próxima sesión.*

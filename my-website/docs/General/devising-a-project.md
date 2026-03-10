@@ -6,77 +6,74 @@ sidebar_position: 1
 
 ##  [Entrega 1: DP] - Fecha: 12/02/2026
 
-###  1. Nuestro Feedback Directo
-*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
-
-* 🟢 **Fortalezas (Lo que hemos logrado y debemos mantener):**
-  * **Estrategia y negocio:** Idea clara desde el inicio con una diferenciación temprana. Justificación sólida de precios, competidores y plan de crecimiento. Segmentación correcta de usuarios piloto y feedback almacenado.
-  * **Gestión técnica y de proyecto:** Mockups navegables y consideración de riesgos técnicos con CI/CD. Cumplimiento del "commitment agreement".
-  * **Comunicación y diseño:** "Killer opener" conectado con utilidad real e inicio visual potente. Buen control del tiempo, ritmo y síntesis. Diseño estratégico (menos texto, marca unificada) y presentación autocontenida.
-  * **Gestión y seguimiento del proyecto:** Buen cumplimiento del *Commitment Agreement* y uso adecuado de herramientas de seguimiento del tiempo como Clockify para la organización del trabajo del equipo.
-  * **Progreso en confianza escénica:** Mejora en la seguridad al exponer frente al público, mostrando mayor naturalidad durante la presentación.
-
-* 🔴 **Debilidades (Áreas de mejora y puntos de dolor):**
-  * **Fallos en el mensaje y estrategia:** La idea no quedó clara al inicio y la diferenciación llegó tarde. Justificación débil de precios y una expansión mal definida.
-  * **Gestión y organización:** Procesos y riesgos no explicados, segmentación poco clara y feedback sin estructurar.
-  * **Puesta en escena (Formas):** Hablamos demasiado rápido, con redundancias y movimiento excesivo. Error crítico: Tapamos la pantalla y miramos solo al profesor.
-  * **Errores de diseño visual:** Demasiado texto, letra pequeña y diapositivas sobrecargadas. DAFO y competidores poco visibles; información importante escondida. La presentación no era autocontenida y el esquema de colores no queda claro.
-  * **Killer opener y orientación escénica:** El inicio de la presentación debe proyectarse mirando hacia el público y no hacia la pantalla, para reforzar el impacto inicial.
-  * **Estructura de la narrativa:** El *killer opener* debe estar mejor conectado con el resto de la presentación para mantener un hilo narrativo claro desde el problema inicial hasta la solución propuesta.
-  * **Exceso de mockups:** Se presentaron demasiadas pantallas antes de explicar el núcleo del producto. Es recomendable introducir primero el **core del proyecto** y posteriormente los mockups como apoyo visual.
-  * **Análisis estratégico (DAFO):** Las amenazas identificadas deben relacionarse explícitamente con oportunidades o estrategias que permitan compensarlas.
-  * **Gestión de riesgos:** Los mecanismos de medición y seguimiento de riesgos necesitan ser más concretos y medibles.
-  * **Comunicación oral:** Necesidad de mejorar la **vocalización y el volumen de voz** para asegurar que toda la audiencia pueda seguir la presentación con claridad.
-
-
-* 🛠️ **Acciones Tomadas / A realizar (Mejoras de formato y planificación):**
-  * **Gestión de la atención:** Traslado de los códigos QR al final de la exposición para evitar distracciones y mantener el foco en el equipo.
-  * **Planificación técnica:** Simplificación del diagrama de Gantt, detallado específicamente por sprints.
-  * **Diseño visual:** Optimización del diseño reduciendo la carga de texto y aumentando el apoyo gráfico (imágenes) para facilitar la comprensión. Se indica el significado de cada leyenda o elemento visual.
-  * **Puesta en escena:** Exposición reubicada; ya no se tapará la pantalla, los ponentes se posicionarán al lado.
-  * Reforzar el **killer opener** para que conecte directamente con el problema y sirva como hilo conductor de toda la presentación.
-  * Reordenar la exposición introduciendo primero el **core del producto** y utilizando los mockups únicamente como soporte visual posterior.
-  * Mejorar el **DAFO estratégico**, vinculando cada amenaza con su oportunidad o estrategia de mitigación.
-  * Definir **indicadores concretos para la medición de riesgos**, facilitando su seguimiento durante el desarrollo del proyecto.
-  * Trabajar la **proyección de voz, vocalización y contacto visual frontal** para mejorar la claridad y presencia escénica.
-
-###  2. Feedback General (Conocimiento Transversal)
+###  Feedback General (Conocimiento Transversal)
 *Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*
 
-* **Integración Narrativa de Mockups:** Aunque tenemos mockups navegables, la recomendación general sugiere integrarlos mejor con historias de usuario en lugar de mostrarlos como pantallas aisladas.
+#### Presentación y Comunicación
+* **Integración Narrativa de Mockups:** Aunque tenemos mockups navegables, la recomendación general sugiere integrarlos mejor con historias de usuario en lugar de mostrarlos como pantallas aisladas. Los mockups deben presentarse con contexto claro, indicando qué tipo de usuario interviene en cada caso de uso y mostrando el flujo completo de navegación en lugar de capturas estáticas.
 * **Autocontención del Discurso:** Importancia de no dar por hecho que el tribunal recuerda los detalles de presentaciones anteriores; cada entrega debe entenderse por sí sola (refuerza nuestro punto de mejorar la claridad inicial).
-* **Cobertura de Requisitos:** Recordatorio de revisar la rúbrica punto por punto para asegurar que no se queda ningún apartado obligatorio sin cubrir.
 * **Participación Activa:** Necesidad de aportar feedback constructivo a los demás grupos durante sus exposiciones.
-* **Refuerzo de Identidad:** Sugerencia de uso de elementos diferenciadores extra (ej: mascota o iconografía propia) para potenciar la marca visual.
+* **Gestión del Tiempo:** Aprovechar cada minuto disponible de la presentación. Sobrar tiempo es una oportunidad perdida. Preparar diapositivas extra que parezcan parte natural de la presentación para entrar en detalle si se va demasiado rápido.
+* **Killer Opener:** Debe ser claro, impactante y conectar directamente con el problema y la solución propuesta. Ejecutarse mirando al frente proyectando la voz, y debe entenderse desde el primer segundo. Funciona mejor cuando incluye al público pero evitando temas polémicos. Debe servir como hilo conductor de toda la presentación.
+* **Elevator Pitch:** Es fundamental resumir la idea en una sola frase clara y directa para vender el concepto desde el primer minuto.
+* **Presentación y Puesta en Escena:** Contacto visual con toda la audiencia (mirar a las 4 esquinas), no solo al profesor. Evitar hablar demasiado rápido, usar muletillas o hacer referencias a presentaciones anteriores. Mejorar vocalización y volumen de voz para asegurar que toda la audiencia pueda seguir la presentación. No tapar la pantalla durante la exposición.
+* **Estructura y Narrativa:** Mantener un buen hilo argumental y enlazar bien los distintos puntos. Aplicar "First things first" (poner primero lo importante, de izquierda a derecha y de arriba a abajo). Evitar saltar entre temas de forma repetitiva. Presentar primero el core del producto y luego los mockups como apoyo visual. El orden recomendado: killer opener, idea/core del producto, casos de uso principales, análisis de competidores, modelo de negocio, stack tecnológico.
+
+#### Diseño Visual
+* **Refuerzo de Identidad:** Sugerencia de uso de elementos diferenciadores extra (ej: mascota o iconografía propia) para potenciar la marca visual. La imagen de marca debe aplicarse consistentemente en toda la presentación.
+* **Diseño Visual:** Reducir el texto en las diapositivas, aumentar el tamaño de las letras y mejorar el contraste para garantizar legibilidad desde el fondo del aula. Mantener un estilo visual coherente y unificado en todas las diapositivas. Evitar paletas de colores que dificulten la lectura. Indicar el significado de cada leyenda o elemento visual. Aprovechar todo el espacio de la pantalla disponible. Incluir numeración en las diapositivas.
+* **Coherencia Visual y Narrativa:** Las diapositivas deben tener una correlación real entre ellas y seguir una armonía (mismo formato, título en el mismo sitio).
+* **Control de Calidad Visual:** Realizar una revisión técnica previa en el proyector del aula para asegurar que la resolución no corta el contenido y que los colores y contrastes se ven correctamente en pantalla.
+
+#### Requisitos y Evaluación
+* **Cobertura de Requisitos:** Recordatorio de revisar la rúbrica punto por punto para asegurar que no se queda ningún apartado obligatorio sin cubrir. Utilizar checklist para garantizar que no falta contenido obligatorio.
+
+#### Estrategia y Modelo de Negocio
+* **Análisis de Competidores:** El análisis no es solo un trámite; debe usarse activamente para demostrar de forma visual y argumentada por qué nuestro producto es superior. Evitar términos ambiguos o poco concretos en la comparación. Centrarse en el core y el diferenciador real, evitando argumentos subjetivos. Priorizar APIs y tecnologías ampliamente adoptadas. Incluir una comparativa final estructurada tras el DAFO. Si se afirma que no hay competidores directos, justificarlo explícitamente.
+* **Modelo de Negocio:** Debe quedar claro quién es el cliente final, quién paga y por qué pagarían. Diferenciar el valor para el cliente que paga del valor para el usuario final. Usar terminología de negocio adecuada (B2B, B2C, etc.). Acotar bien el nicho inicial (empezar pequeño y escalar). Evitar dependencia excesiva de una sola funcionalidad o tecnología.
+* **DAFO Estratégico:** Presentarlo visualmente enfrentando Fortalezas vs Debilidades y Oportunidades vs Amenazas. Las amenazas deben relacionarse explícitamente con oportunidades o estrategias que permitan compensarlas. Usar colores intensos para mejorar la visualización. Evitar exceso de texto.
+* **Gamificación como Estrategia:** Gamificar una plataforma transaccional es clave para retener a los usuarios dentro del ecosistema y evitar que cierren los tratos por su cuenta.
+* **Sinergias con Competidores:** Los competidores indirectos a menudo pueden transformarse en los mejores canales de captación (partnerships) si se les ofrece una herramienta útil.
+
+#### Gestión de Proyecto
+* **Planificación Técnica:** Utilizar diagramas de Gantt simplificados para visualizar el desarrollo y la planificación real de los sprints. Debe mostrar claramente qué tareas se han completado y cuáles quedan pendientes. Simplificar y detallar específicamente por sprints.
+* **Gestión de Riesgos:** Los mecanismos de medición y seguimiento necesitan ser concretos y medibles. Definir KPIs o indicadores concretos. Si se presentan KPIs, indicar umbrales concretos (máximos y mínimos).
+* **Usuarios Piloto:** Deben segmentarse correctamente y el feedback debe estar estructurado. Incluir perfiles diversos (más y menos técnicos). Describir claramente la estrategia de captación. Definir con precisión el ICP (Ideal Customer Profile).
+* **Herramientas de Seguimiento:** El uso de herramientas como Clockify para el seguimiento del tiempo permite trazar el esfuerzo invertido y demostrar el cumplimiento del Commitment Agreement.
+
+#### Metodología y Tecnología
+* **Stack Tecnológico:** Presentarlo después de la metodología. Incluir análisis de riesgos y mitigación asociados a las tecnologías elegidas. Considerar la curva de aprendizaje de diferentes tecnologías simultáneas.
+* **Previsión Técnica:** Las funcionalidades core basadas en IA o algoritmos complejos requieren un desglose técnico riguroso desde el principio.
 
 ---
 
 
 ##  [Entrega 1: DP] - Fecha: 05/02/2026
 
-###  1. Nuestro Feedback Directo
-*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
-
-* 🟢 **Fortalezas (Qué hemos hecho bien):**
-  * **Capacidad de ejecución:** Al pedirnos más casos de uso, reconocen que tenemos un equipo grande y capaz de asumir retos mayores que otros grupos.
-  * **Tecnología:** Ya tenemos la base de IA integrada y la estructura SaaS planteada. La infraestructura técnica está encaminada, solo falta mejorar la venta y el enfoque comercial.
-
-* 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-  * **Fallos en presentación y puesta en escena:** La presentación se ve cortada y sin pie de página en pantalla digital. Falta contacto visual con todo el público (mirar a las 4 esquinas). Apoyo visual insuficiente, especialmente en el análisis de competencia.
-  * **Errores de producto y privacidad (Urgente):** Grave error mostrar teléfonos de vecinos en el chat. Votaciones y actas no alineadas con la normativa legal. Casos de uso escasos para el tamaño del equipo. Hay que centrarse solo en características que podamos cumplir.
-  * **Estrategia y negocio:** Dependemos demasiado de la IA. ¿Pagarían solo por eso? El modelo SaaS y plan de precios no se entienden bien. No está claro el target ni la edad objetivo. Necesidad de diferenciarse del grupo de mañana y de futuras apps con IA.
-
-* 🛠️ **Acciones Tomadas / A realizar:**
-  * **Pivotaje y estrategia:** Redefinición del producto hacia "Gestión de Residencias de Estudiantes" (target: dueños y estudiantes) para diferenciarnos totalmente del grupo de vecinos. Incorporación de funciones de valor añadido no dependientes de IA (reserva de zonas comunes y control de accesos QR).
-  * **Privacidad y seguridad:** Eliminación definitiva de los números de teléfono visibles de los usuarios en la app.
-  * **Presentación visual:** Comprobación previa de visualización en pantalla digital para evitar cortes. Desglose del contenido en mayor número de diapositivas para mejorar la legibilidad.
-
-###  2. Feedback General (Conocimiento Transversal)
+###  Feedback General (Conocimiento Transversal)
 *Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*
 
-* **Sostenibilidad y masa crítica:** Se plantearon dudas a nivel global sobre la viabilidad de las funcionalidades sociales si no se alcanza un volumen de usuarios suficiente rápidamente.
-* **Valor Institucional (B2B):** Necesidad de justificar mejor el valor para el cliente "institución" (quien paga) diferenciándolo claramente del valor para el usuario final (quien usa la app). Esto refuerza la necesidad de aclarar nuestro modelo de negocio.
-* **Cobertura de requisitos:** Recordatorio general de cubrir todos los apartados exigidos en la hoja de evaluación, evitando omitir secciones obligatorias por falta de tiempo.
-* **Control de Calidad (QA) en Proyección:** Importancia de realizar una revisión técnica previa en el proyector del aula para asegurar que la resolución no corta el contenido (esto confirma la causa raíz de nuestro fallo de visualización).
+#### Estrategia y Modelo de Negocio
+* **Sostenibilidad y masa crítica:** Se plantearon dudas a nivel global sobre la viabilidad de las funcionalidades sociales si no se alcanza un volumen de usuarios suficiente rápidamente. Es necesario justificar la masa crítica necesaria y explicar cómo se alcanzará.
+* **Valor Institucional (B2B):** Necesidad de justificar mejor el valor para el cliente "institución" (quien paga) diferenciándolo claramente del valor para el usuario final (quien usa la app). Esto refuerza la necesidad de aclarar nuestro modelo de negocio. Baja viabilidad en la captación de clientes institucionales si no está bien justificada.
+* **Modelo de Monetización:** Debe estar claramente definido desde el inicio. Evitar depender únicamente de un modelo poco sostenible. La rentabilidad debe justificarse con proyecciones realistas.
+* **Diferenciación Clara:** El valor percibido debe ser suficiente para justificar el pago. Es necesario explicar conceptos diferenciadores de forma clara y medible.
+* **Análisis de Competencia como palanca:** El análisis debe usarse activamente para demostrar de forma visual y argumentada por qué el producto es superior. La tabla de competencia debe ser suficientemente amplia y el análisis profundo.
+
+#### Requisitos y Evaluación
+* **Cobertura de requisitos:** Recordatorio general de cubrir todos los apartados exigidos en la hoja de evaluación, evitando omitir secciones obligatorias por falta de tiempo. Utilizar checklist para asegurar que no se queda ningún apartado obligatorio sin cubrir.
+
+#### Presentación y Comunicación
+* **Aprovechamiento del tiempo:** En un entorno profesional, cada minuto frente al cliente o inversor cuenta. Sobrar tiempo es una oportunidad perdida de venta. No agotar el tiempo disponible es un error.
+* **Storytelling:** Mantener un buen hilo argumental. El cierre narrativo debe darle sentido global a la presentación. Evitar comienzos confusos o que generen falsas expectativas.
+* **Interacción con el Público:** No hacer preguntas de levantar la mano porque si nadie responde queda fatal. Al incluir al público en el killer opener, hacerlo con cuidado de no entrar en temas polémicos.
+* **Presentación del Equipo:** Si se hace con fotos, que todas las fotos sean iguales y con formato uniforme. Debe mostrarse de manera estructurada.
+
+#### Diseño Visual
+* **Control de Calidad (QA) en Proyección:** Importancia de realizar una revisión técnica previa en el proyector del aula para asegurar que la resolución no corta el contenido. Comprobar que las presentaciones se ven correctamente en pantalla digital, especialmente la parte baja de la pantalla. Los colores en el proyector se ven más oscuros de lo que son en pantalla del ordenador.
+* **Consistencia Visual:** Es fundamental mejorar la calidad gráfica global y mantener un estilo visual coherente y unificado en todas y cada una de las diapositivas. Evitar DAFO con demasiado texto.
+
+#### Gestión de Equipo
+* **Team Building:** Se recomienda hacer reuniones de equipo más relajadas para fortalecer la cohesión del grupo.
 
 ---

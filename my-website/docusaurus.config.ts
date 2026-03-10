@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'ISPP Knowledge Base',
-  tagline: 'Base de conocimiento para el turno de tarde',
+  title: 'ISPP Knowledge Base - Turno de Tarde',
+  tagline: 'Base de Conocimiento Común para el Turno de Tarde',
   
   trailingSlash: true,
 
@@ -58,7 +58,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'ISPP Knowledge Base',
+      title: 'ISPP Knowledge Base - Turno de Tarde',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

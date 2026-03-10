@@ -1,8 +1,8 @@
 {
-  "label": "General Feedback",
+  "label": "Feedback General",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "General feedback gathered and consolidated by all groups"
+    "description": "Todo el feedback global recopilado y consolidado por todos los grupos"
   }
 }

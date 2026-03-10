@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ISPP Knowledge Base',
-  tagline: 'Knowledge base for the evening turn',
+  tagline: 'Base de conocimiento para el turno de tarde',
   
   trailingSlash: true,
 
@@ -33,8 +33,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -68,7 +68,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Documentation',
+          label: 'Documentación',
         },
         {
           href: 'https://github.com/ASoult10/Knowledge-Base-Turno-De-Tarde-ISPP-25-26',
@@ -81,16 +81,16 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentación',
           items: [
             {
-              label: 'Introduction',
+              label: 'Introducción',
               to: '/docs/intro',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ISPP Knowledge Base - Turno de Tarde. Realizado con Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -6,4 +6,12 @@ sidebar_position: 2
 
 # Team Organization
 
-Feedback relacionado con la organización y coordinación del equipo.
+---
+
+## ✅ Lo que funciona
+
+
+
+## ❌ Lo que no funciona
+
+

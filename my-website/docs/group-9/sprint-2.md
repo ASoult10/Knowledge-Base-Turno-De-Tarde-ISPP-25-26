@@ -43,7 +43,7 @@ sidebar_position: 1
 
 ---
 
-## [Entrega 2: S1] – [Fecha: xx/0x/2026]
+## [Entrega 2: S1] – [Fecha: 26/04/2026]
 
 ### Nuestro Feedback Directo
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*

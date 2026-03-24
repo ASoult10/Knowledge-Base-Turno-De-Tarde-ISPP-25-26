@@ -52,10 +52,22 @@ sidebar_position: 1
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 🟢 **Fortalezas (Qué hemos hecho bien):**
-  - TODO
+* **Flujo lógico:** La presentación tiene un flujo lógico muy bien construido y fácil de seguir.
+* **Opening:** La apertura está muy bien ejecutada y engancha desde el inicio.
+* **Conexión con Mockups:** El opening se enlaza de forma efectiva con los mockups, dando coherencia visual y narrativa a la presentación.
 
 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-  - TODO
+* **Narrativa y Estructura:** La parte de competidores rompe el hilo de la presentación; su ubicación interrumpe el flujo lógico del discurso.
+* **Apoyo Visual en Problemas y Medidas:** El checklist de problemas y medidas existe, pero las medidas carecen de apoyo visual que las respalde y haga más comprensibles.
+* **Commitment Agreement — Cumplimiento:** El commitment agreement está presente, pero no se muestra evidencia de su cumplimiento (gráficas de seguimiento, checklists de comprobación, etc.).
+* **Gráficas de Seguimiento:** Faltan la gráfica de progreso total y la gráfica por sprint (referenciadas en la página 23 de la presentación). Además, deben empezarse desde 0 para reflejar fielmente la evolución real del equipo.
+* **Costes Fijos:** No se han incluido los costes fijos en el análisis económico del proyecto.
+* **CI / Pruebas en la Nube:** No se ha abordado la integración continua ni la estrategia de pruebas en la nube.
 
 🛠️ **Acciones Tomadas / A realizar:**
-  - TODO
+* **Reestructurar la presentación** para que la sección de competidores no rompa el hilo narrativo; reubicarla en un punto más coherente dentro del discurso.
+* **Añadir soporte visual** (diagramas, tablas, iconos) en el checklist de problemas y medidas para que las acciones correctivas sean más claras.
+* **Incorporar evidencia de cumplimiento** del commitment agreement: gráficas de seguimiento individual/grupal, checklists verificados, etc.
+* **Añadir las gráficas de progreso** (total y por sprint) empezando desde 0 en la página correspondiente (p. 23).
+* **Incluir costes fijos** en el desglose económico (página 32 de la presentación).
+* **Definir e integrar CI/pruebas en la nube** dentro de la estrategia técnica del proyecto.

@@ -9,7 +9,6 @@ sidebar_position: 1
 ## [Entrega 2: S1 (Mid)] - Fecha: 26/02/2026
 
 ### 1. Nuestro Feedback Directo #
-
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 - 🟢 **Fortalezas (Qué hemos hecho bien):**
@@ -46,7 +45,6 @@ sidebar_position: 1
 ## [Entrega 2: S1 (Final)] - Fecha: 05/03/2026
 
 ### 1. Nuestro Feedback Directo #
-
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 - 🟢 **Fortalezas (Qué hemos hecho bien):**
@@ -87,7 +85,6 @@ sidebar_position: 1
 ---
 
 ### 2. Qué tener para la semana que viene #
-
 *Requisitos y contenido esperado para la próxima sesión.*
 
 - 📋 **Formato:** 16 minutos de presentación + 5 minutos de feedback.

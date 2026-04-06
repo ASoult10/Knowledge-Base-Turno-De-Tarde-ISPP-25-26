@@ -43,16 +43,39 @@ sidebar_position: 1
 
 ---
 
-## [Entrega 2: S1] – [Fecha: 26/04/2026]
+## [Entrega 2: S2] – [Fecha: 26/03/2026]
 
 ### Nuestro Feedback Directo
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 * 🟢 **Fortalezas (Qué hemos hecho bien):**
-  - TODO
+  - Killer opener bien trabajado y correctamente hilado con el resto de la presentación.
+  - Buena conexión entre secciones, con una narrativa más fluida que en presentaciones anteriores.
+  - Muy buen control de los tiempos durante toda la exposición.
+  - Replanificación clara y realista, mostrando bien qué se puede y qué no se puede abordar.
+  - Alto nivel técnico del proyecto, destacando el trabajo realizado en la aplicación.
+  - CI/CD muy completo y bien planteado.
+  - Buen uso de métricas en general (rendimiento del equipo, commitment agreement, etc.).
+  - Muy buen gráfico de rendimiento del equipo y del cuadrante.
+  - Buen equilibrio entre contenido visual, texto y uso de metáforas.
+  - Buen análisis económico, incluyendo monetización y consideración de si los usuarios pagarían.
+  - Pruebas de rendimiento bien planteadas.
+  - Uso de elementos visuales como la mascota que aportan identidad al proyecto.
+  - Comparación entre sprints bien explicada.
 
 * 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-  - TODO
+  - La demo no se visualiza correctamente (letra demasiado pequeña).
+  - Falta incluir elementos visuales en la demo que ayuden a seguirla (por ejemplo, icono del usuario y título del caso de uso).
+  - Sigue faltando más detalle en el plan de pruebas (tipos de tests, métricas, cobertura, número de tests, etc.).
+  - Confusión entre riesgos y problemas (los problemas son riesgos materializados).
+  - Propuesta de trabajo no adecuada respecto al Sprint 3 (no es cierto que no haya trabajo para desarrollo, se pueden seguir desarrollando cosas).
+  - Uso de decimales innecesarios en métricas; se recomienda redondear cifras.
+  - Algunas partes de la narrativa del opener pueden resultar inconsistentes (cambio de rol estudiante/profesor).
+  - Aunque la demo está bien explicada, no se percibe bien visualmente en la presentación.
 
 * **Acciones Tomadas / A realizar:**
-  - TODO
+  - Se ha planteado otra forma de grabar la demo y de incluirla en la diapositiva, para así meter más detalles y que se vea mejor.
+  - Se ha detallado de manera profunda la diapositiva del plan de pruebas incluyendo más diapositivas.
+  - Se ha redefinido las diapositivas de problemas de forma que ahora son "conflictos".
+  - Se ha redondeado las métricas al primer decimal.
+  - Se ha reestructurado la demo para que se visualice mejor el cambio de rol de estudiante a profesor.

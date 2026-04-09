@@ -24,6 +24,8 @@ Feedback relacionado con la organización del equipo, el seguimiento del trabajo
 
 * **Métricas y objetivos para problemas encontrados**: Se pide que por cada problema encontrado, aparte de ofrecer un plan para su resolución, que también se creen métricas capaces de medir que tan bien está funcionando este plan. A su vez se debe definir un objetivo claro al que queremos que lleguen esas métricas
 
+* **Transparencia en la dinámica interna**: Mencionar abiertamente las fricciones en el equipo ayuda a gestionarlas de forma constructiva. Asimismo, es útil incorporar métricas sencillas de salud del equipo (Team Health Check) para evaluar el clima laboral.
+
 ## ❌ Lo que no funciona
 
 * **Falta de Estructura en la Presentación del Equipo**: Usar fotos con formatos diferentes o estilos inconsistentes al presentar a los miembros.
@@ -35,4 +37,6 @@ Feedback relacionado con la organización del equipo, el seguimiento del trabajo
 * **Seguimiento individual poco visible**: Falta una diapositiva o recurso visual que muestre cómo cumple cada miembro su compromiso, por ejemplo mediante checklists, evaluaciones o indicadores individuales.
 
 * **Análisis de dedicación insuficiente**: Si se muestran datos de esfuerzo o Clockify, conviene reflejarlos por personas y no solo por tareas para detectar mejor desequilibrios dentro del equipo.
+
+* **Métricas de asistencia engañosas**: No se debe considerar como una métrica de éxito "per se" el hecho de que haya poca gente en las reuniones; esto puede ser síntoma de falta de compromiso o mala organización en lugar de eficiencia.
 

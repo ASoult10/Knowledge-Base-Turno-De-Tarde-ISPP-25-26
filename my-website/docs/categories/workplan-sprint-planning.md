@@ -22,6 +22,8 @@ Feedback relacionado con la planificación del trabajo y la gestión de sprints.
 
 * **Contemplar el refactor**: Contemplar en la planificación tareas de refactor y arreglos de fallos de semanas anteriores
 
+* **Gestión de problemas con métricas**: Es positivo incluir una tabla que relacione los problemas detectados con métricas y objetivos específicos para su resolución, permitiendo un seguimiento cuantitativo de la mejora.
+
 ## ❌ Lo que no funciona
 
 * **Falta de Realismo en el Cronograma**: No contemplar la curva de aprendizaje de las tecnologías elegidas dentro de los tiempos de entrega del sprint.
@@ -37,3 +39,5 @@ Feedback relacionado con la planificación del trabajo y la gestión de sprints.
 * **Planning con poco detalle**: Conviene desglosar mejor las tareas e incluir también procesos de replacing o reajuste si se están realizando.
 
 * **Falta de paralelización**: No es conveniente planificar tu sprint con tareas "en escalera". Se debe poder paralelizar tareas para que así no tengamos cuellos de botella y el desarrollo sea más fluido
+
+* **Ausencia de control sobre los problemas**: No definir métricas de seguimiento para los problemas encontrados impide saber si las soluciones aplicadas están siendo efectivas.

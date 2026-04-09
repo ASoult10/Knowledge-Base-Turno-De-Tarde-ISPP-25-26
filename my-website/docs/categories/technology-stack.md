@@ -32,6 +32,8 @@ Feedback relacionado con las tecnologías utilizadas y decisiones técnicas.
 
 * **Contemplar los diferentes proveedores de despliegue**: Analizar qué proveedor se ajusta más a nuestras necesidades, puesto que necesitamos entre otras cosas despliegues "congelados" (es decir, que desde que se despliegan, su contenido no varie)
 
+* **Estrategia de Testing Estructurada**: Organizar el plan de pruebas siguiendo un orden lógico (pruebas unitarias, de integración, E2E, etc.) proporciona una visión clara de la robustez del software.
+
 ---
 
 ## ❌ Lo que no funciona
@@ -49,6 +51,8 @@ Feedback relacionado con las tecnologías utilizadas y decisiones técnicas.
 * **No contemplar la calidad del código**: No establecer desde el inicio mecanismos de aseguramiento de calidad del código o integración continua puede generar problemas acumulados en fases posteriores del desarrollo.
 
 * **No explicar bien los proveedores**: No analizar correctamente los proveedores de despligue con sus consecuentes riesgos y ventajas, puede acarrear problemas a la hora de desplegar
+
+* **Malinterpretación del Código Duplicado en Tests**: Considerar el código repetido en los archivos de test como una penalización técnica. En el contexto de testing, la claridad y el aislamiento de las pruebas priman sobre la eliminación estricta de duplicación (DRY).
 
 
 ---

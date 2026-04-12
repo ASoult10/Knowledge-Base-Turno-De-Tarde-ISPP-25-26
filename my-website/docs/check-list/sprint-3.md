@@ -41,4 +41,29 @@ sidebar_position: 1
 
 **Estructura y Contenido de las Diapositivas**
 
-TODO
+- [ ] **1. Killer Opener y Contexto (FOCO):** Apertura clara, bien hilada con la demo, que introduzca el problema y conecte con una historia realista que se desarrollará durante la presentación.
+- [ ] **2. Idea del Proyecto (FOCO):** Recordatorio breve del valor del producto y del problema que soluciona, completamente alineado con el hilo conductor de la demo.
+- [ ] **3. Stack Tecnológico (FOCO):** Explicación a alto nivel de las tecnologías utilizadas, justificando brevemente su elección sin entrar en demasiado detalle técnico.
+- [ ] **4. Casos de Uso y Demo (FOCO):** Demo clara (preferiblemente con vídeo), centrada en **casos de uso core**, conectados entre sí mediante una historia coherente. Incluir iconos o elementos visuales que ayuden a seguir quién realiza cada acción.
+- [ ] **5. Vídeos y Material de Apoyo (FOCO):** Inclusión de vídeo corto en la presentación y enlace a versión extendida (YouTube) estructurada por capítulos según casos de uso.
+- [ ] **6. Metodología de Desarrollo (FOCO):** Explicación a alto nivel de cómo se trabaja realmente (adaptaciones prácticas de Scrum u otra metodología).
+- [ ] **7. ALM, CI/CD (FOCO):** Visión global del ciclo de vida del desarrollo incluyendo CI/CD y herramientas utilizadas.
+- [ ] **8. Plan de Pruebas (FOCO):** Mayor nivel de detalle en testing, especificando tipos de tests (**tests de integración, aceptación y end-to-end**), incluyendo algún ejemplo concreto, además de métricas, cobertura y cuándo se ejecutan cada tipo.
+- [ ] **9. Revisión del Plan de Desarrollo (FOCO):** Comparativa clara entre **lo previsto vs lo realizado** en el sprint actual, destacando desviaciones y replanificaciones.
+- [ ] **10. Retrospectiva del Sprint (FOCO):** Análisis de alto nivel del sprint actual, explicando qué ha pasado, qué se ha completado y qué se ha aprendido.
+- [ ] **11. Análisis de Rendimiento del Equipo (FOCO):** Visualización tipo cuadrante que correlacione rendimiento con métricas objetivas (commits, tareas, horas, etc), **incluyendo siglas de cada estudiante**.
+- [ ] **12. Riesgos del Proyecto (FOCO):** Riesgos que han aparecido durante el desarrollo (convirtiéndose en **problemas**), cómo se están mitigando y cómo se mide si las soluciones funcionan (destacando las **métricas** y los **umbrales** asociados).
+- [ ] **13. Conflictos del Proyecto (FOCO):** Análisis estructurado de cada conflicto → estado actual → solución aplicada → métricas → umbrales → validación de que la solución funciona.
+- [ ] **14. Usuarios Piloto (FOCO):** **Ampliado:** Estado actual (número y tipo), plan de crecimiento y **métrica de uso real (porcentaje de usuarios activos, medidos de alguna forma)**.
+- [ ] **15. Gestión del Feedback (FOCO):** Acciones concretas de pivotaje basadas en feedback de usuarios piloto, cómo afectan a la replanificación y decisiones del producto.
+- [ ] **16. Estrategia de Usuarios Piloto (FOCO):** Plan para aumentar el número de usuarios piloto y preparación de cara al lanzamiento.
+- [ ] **17. Release y Changelog (FOCO):** Enlace a la página de releases de GitHub con un **changelog estructurado** (idealmente con conventional commits).
+- [ ] **18. Presentación del Equipo (NO FOCO):** Composición actualizada del equipo y fotos homogéneas.
+- [ ] **19. Competidores (NO FOCO):** Análisis visual de competidores a alto nivel (en una única diapositiva casi).
+- [ ] **20. Commitment Agreement (NO FOCO):** Análisis de alto nivel del cumplimiento, incluyendo desviaciones temporales tanto del sprint como del proyecto global.
+- [ ] **21. Análisis Económico (NO FOCO):** Diferenciar claramente **CAPEX vs OPEX**, incluir evolución del número de usuarios previstos y marco temporal del análisis, todo con precios aproximados (sin incluir tantos decimales).
+- [ ] **22. Costes de Servicios Externos (NO FOCO):** Listado completo de servicios utilizados (incluyendo los gratuitos como GitHub, Microsoft 365, etc).
+- [ ] **23. Usuarios vs Plan Económico (NO FOCO):** Relación entre usuarios obtenidos y previsiones económicas.
+- [ ] **24. Modelo de Precios (NO FOCO):** Propuesta explícita de precios basada en el feedback de usuarios piloto.
+- [ ] **25. Storyboard de Marketing (NO FOCO):** Revisión del storyboard con feedback y propuesta adicional orientada a inversores (enfoque en rentabilidad y datos económicos), para anuncios de 2-3 minutos cada uno.
+- [ ] **26. Team Building (NO FOCO):** Actividades realizadas y métricas de impacto en el equipo (no solo mencionar actividades, sino evaluar resultados).

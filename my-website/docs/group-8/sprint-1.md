@@ -1,7 +1,7 @@
 ---
 title: Sprint 1
 sidebar_label: S1
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Feedback y Mejoras

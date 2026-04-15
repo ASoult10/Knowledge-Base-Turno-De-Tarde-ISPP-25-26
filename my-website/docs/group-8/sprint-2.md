@@ -1,3 +1,9 @@
+---
+title: Sprint 2
+sidebar_label: S2
+sidebar_position: 3
+---
+
 # Feedback Grupo 8 - Bookmerang
 
 ## [Entrega 1: S2] – [Fecha: 12/03/2026]

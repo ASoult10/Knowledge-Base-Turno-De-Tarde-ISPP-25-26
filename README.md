@@ -47,8 +47,7 @@ Además, al utilizar GitHub como herramienta de almacenamiento, se garantiza la 
 | **12/03/2026** | Grupo 8 | Grupo 7 | Grupo 10 | - | Grupo 11 | Grupo 6 | Grupo 9 |
 | **26/03/2026** | Grupo 11 | Grupo 8 | Grupo 6 | - | Grupo 7 | Grupo 9 | Grupo 10 |
 | **09/04/2026** | Grupo 8 | Grupo 7 | Grupo 9 | - | Grupo 10 | Grupo 11 | Grupo 6 |
-| **16/04/2026** | | | | - | | | |
-| **23/04/2026** | | | | - | | | |
+| **16/04/2026** | Grupo 9 | Grupo 8 | Grupo 11 | - | Grupo 7 | Grupo 6 | Grupo 10 |
 | **30/04/2026** | | | | - | | | |
 | **07/05/2026** | | | | - | | | |
 | **14/05/2026** | | | | - | | | |

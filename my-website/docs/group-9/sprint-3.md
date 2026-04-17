@@ -50,10 +50,23 @@ sidebar_position: 1
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 * 🟢 **Fortalezas (Qué hemos hecho bien):**
-  - TODO
+  - En términos generales, la presentación mantiene un buen nivel, con un flujo claro y bien estructurado.
+  - Se percibe una buena evolución respecto a presentaciones anteriores.
+  - El contenido está bien organizado y se entiende correctamente el proyecto.
 
 * 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-  - TODO
+  - Se está desaprovechando tiempo explicando los casos de uso core antes de la demo, ya que luego se repiten. Sería mejor hacer la demo directamente y después resumir lo incluido.
+  - Falta foco en lo que se pide específicamente para esta entrega y sobra contenido no relevante (ej. Scrum adaptado si no es foco).
+  - Hay diapositivas con muchas gráficas/tablas cuya información interesante no se está explicando suficientemente, sin profundizar más en los datos mostrados.
+  - Confusión conceptual entre riesgo materializado y problema.
+  - Hay demasiados problemas listados pero no se explican aunque haya muchos, explicar al menos uno en profundidad.
+  - Team building poco desarrollado, ya que se menciona mejora, pero no se explica qué se ha hecho ni cómo.
+  - El storyboard del anuncio de clientes no tiene un foco claro, hay que definir mejor el objetivo.
+  - El anuncio orientado a inversores necesita datos más concretos, como cifras reales, fuentes y volumen de mercado.
 
 * **Acciones Tomadas / A realizar:**
-  - TODO
+  - Se ha quitado la diapositiva de los casos de uso core, y se ha añadido otra que explique los que no han salido en la demo.
+  - Se ha tomado la decisión de acortar o incluso quitar aquellas partes que no sean del foco para las presentaciones más ajustadas de tiempo, solucionando también los problemas de no explicar a fondo los detalles de las diapositivas.
+  - Se ha tomado la decisión de mostrar una diapositiva explícita explicando alguno de los problemas.
+  - Se ha mejorado el anuncio de clientes, explicitando un objetivo claro.
+  - Se ha puesto explícitamente los detalles de las cifras en el anuncio de inversores

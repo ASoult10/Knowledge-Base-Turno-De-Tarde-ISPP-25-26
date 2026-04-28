@@ -30,3 +30,25 @@ sidebar_position: 4
   * Incorporar la **línea de puntos de historias mínimas** en el diagrama correspondiente para facilitar la interpretación del progreso esperado.
   * Homogeneizar la **tipografía de las medidas organizativas** con el resto del diseño de la presentación.
   * Definir **métricas objetivas de participación del equipo**, incluyendo mecanismos de seguimiento, indicadores de baja implicación y posibles medidas correctivas.
+
+## [Entrega 4: S3] – Fecha: 16/04/2026
+
+### 1. Nuestro Feedback Directo
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+* 🟢 **Fortalezas (Lo que hemos logrado y debemos mantener):**
+  * **Excelente integración entre killer opener y demo:** La transición entre la apertura inicial y la demostración del producto ha sido muy fluida, generando una narrativa cohesiva y reforzando el impacto de la presentación.
+  * **Burndown visualmente muy trabajado:** El diseño y representación gráfica del burndown resultan claros, atractivos y transmiten profesionalidad en la exposición de la evolución del sprint.
+  * **Buena introducción de la dimensión de inversión:** La inclusión del enfoque hacia inversores ha sido muy bien recibida y aporta una visión estratégica más sólida del proyecto.
+
+* 🔴 **Debilidades (Áreas de mejora y puntos de dolor):**
+  * **Falta de umbrales y medidas concretas en los problemas detectados:** Los problemas expuestos carecen de métricas cuantificables y referencias claras que permitan evaluar objetivamente cuándo una situación requiere actuación.
+  * **Espacio desaprovechado en el burndown:** Aunque el gráfico está bien diseñado, existe un vacío visual importante que reduce el aprovechamiento del espacio disponible y resta densidad informativa.
+  * **Error de contexto en la estimación del punto de equilibrio:** El cálculo se ha planteado tomando como referencia los usuarios piloto, cuando el punto de equilibrio debe proyectarse sobre la base de usuarios reales estimados a futuro, ya que serán estos quienes permitan alcanzar la rentabilidad.
+
+* 🛠️ **Acciones Tomadas / A realizar (Mejoras de formato y planificación):**
+  * Incorporar **umbrales cuantitativos específicos** en cada problema identificado, incluyendo métricas, límites de alerta y medidas concretas asociadas.
+  * Rediseñar el espacio vacío del **burndown**, añadiendo información complementaria relevante como hitos, referencias de progreso esperado o indicadores adicionales que enriquezcan la lectura visual.
+  * Corregir completamente la sección de **punto de equilibrio**, recalculando la estimación en función de usuarios reales proyectados y diferenciando claramente entre usuarios piloto y clientes esperados.
+  * Preparar para la próxima entrega una explicación más desarrollada de las **opciones de inversión**, incorporando distintos escenarios y mecanismos de financiación para presentarlos en el vídeo de la siguiente semana.
+  * Mantener y reforzar la conexión narrativa entre **killer opener y demo**, consolidándola como uno de los puntos diferenciales de la presentación.

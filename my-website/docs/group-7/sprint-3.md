@@ -50,3 +50,55 @@ sidebar_position: 4
 * **Negocio, Costes y Usuarios Piloto:**
   * **Desglose de Costes:** Dividir claramente en OPEX y CAPEX (sin ir al céntimo). Las gráficas de costes no deben ser líneas rectas irreales. Incluir servicios externos, incluso aquellos que se usarían pero se descartan por presupuesto (ej. GitHub Pro). No cuentan como "servicio" las herramientas instaladas en local.
   * **Usuarios Piloto:** Ya no se pide una simple lista de nombres. Se exige: número total, categorización por perfiles, verificación de uso real (mediante logs o contacto directo), acciones tomadas tras su feedback y un plan claro para incrementar su número.
+
+  ## 📅 [Entrega 2: S3] - [Fecha: 16/04/2026]
+
+### 🎯 1. Nuestro Feedback Directo (NexUS)
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+* 🟢 **Fortalezas (Qué hemos hecho bien):**
+  * **Narrativa y Arquitectura:** El vídeo de la demo está bien explicado y mantiene un hilo conductor con el *Killer Opener*. Muy buen diagrama de despliegue y flujo CI/CD completo, destacando la norma de que nada llega a la rama principal sin probarse.
+  * **Pruebas (QA) y Transparencia:** El plan de pruebas es muy completo e incluye buenos ejemplos visuales para los test E2E. Se ha valorado la sinceridad al explicar la cobertura y al mostrar que herramientas como SonarCloud no son verdades absolutas.
+  * **Gestión de Equipo:** Índice de dedicación muy bien detallado, equilibrado y con una fórmula justa. Buena transparencia con los problemas internos del equipo, aplicando encuestas de salud (satisfacción) y estableciendo acciones correctivas. Queda claro a qué se dedica cada subgrupo.
+  * **Usuarios y Finanzas:** Buen detalle en el proceso de recogida de feedback (múltiples vías) y buena priorización de las incidencias reportadas por los usuarios piloto. Los costes están bien detallados y explicados sin caer en el error de ir al céntimo.
+
+* 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
+  * **Storyboard deficiente:** Faltan Storyboards o los mostrados son demasiado simples, especialmente el enfocado a inversores.
+  * **Visibilidad de la DEMO:** La demo no se ve bien y necesita mejorar su resolución o visualización en horizontal. Falta identificar qué usuario concreto está ejecutando las acciones mostradas.
+  * **Métricas y Tiempos:** Los umbrales de las métricas están en valores absolutos y deberían estar en términos relativos. El tiempo no trabajado por algunos miembros (aunque esté justificado por motivos personales) no se está recuperando.
+  * **Apertura:** El *Killer Opener* está resultando continuista y repetitivo.
+  * **Lenguaje:** Cuidar el uso de lenguaje inclusivo o neutro en los roles de la app (ej. "limpiadorA" vs "limpiador").
+
+* 🛠️ **Acciones Tomadas / A realizar (FOCO PARA LA SEMANA QUE VIENE):**
+  * **Mejoras en la DEMO:** Aumentar el tamaño visual ("Control +"). Añadir un icono o la cara de la persona específica (User Persona) que está usando la app en cada momento del vídeo para no perder el hilo argumental.
+  * **Ajuste de Métricas y Tiempos:** Cambiar los umbrales a porcentajes (ej. "mejorar la eficiencia en un 20%"). Obligar a recuperar las horas no trabajadas, independientemente de su justificación.
+  * **Rehacer Storyboard de Inversores:** Diseñarlo como un anuncio real enfocado a negocios (buscar referencias en internet).
+  * **Logística WPL:** Reservar el salón de actos y bloquear días/horas previos (antes y después de comer) para ensayar físicamente en el espacio. 
+  * **🚨 PREPARACIÓN PRESENTACIÓN 1 (10 MINUTOS - WPL):**
+    * *Killer Opener* renovado y enlazado con el anuncio de clientes.
+    * Demo con **DATOS REALES OBLIGATORIOS** que siga la historia.
+    * Análisis visual de competidores destacando claramente nuestro *valor diferencial*.
+    * Presentación de alto nivel del equipo.
+    * Análisis de rentabilidad: Costes, planes de precio y gráfica de punto de equilibrio comparada con nuestros usuarios piloto actuales.
+    * Oportunidad de inversión enlazada con el anuncio.
+    * Enlaces públicos al despliegue y a la Landing Page.
+  * **🚨 PREPARACIÓN PRESENTACIÓN 2 (5 MINUTOS):**
+    * Explicar el uso de IA: Herramientas concretas y para qué se usan.
+    * Plan de Marketing: Segmentación con 2 perfiles de usuario concretos (objetivos y uso), y análisis SEO (costes).
+    * Campaña de Lanzamiento: Promociones para captar usuarios reales.
+    * Análisis Financiero: OPEX, CAPEX y gráfica de punto de equilibrio con 2 escenarios (Optimista y Pesimista, detallando qué se hará si ocurre el pesimista). Indicar el número mínimo de clientes para asumir los costes.
+    * Community Management: Asignar un responsable, definir fechas exactas de las acciones y establecer cómo se reaccionará ante un éxito o fracaso de visitas. Mostrar la frecuencia de los anuncios y los costes del CM.
+
+### 💡 2. Feedback General (Conocimiento Transversal)
+*Anotaciones objetivas y aprendizajes generales comentados durante las exposiciones del resto de grupos.*
+
+* **Finanzas y Costes:**
+  * **OPEX Incompleto:** Varios grupos están olvidando incluir el coste del personal y el coste de mantenimiento dentro de la partida de gastos operativos (OPEX).
+* **Presentación y Narrativa:**
+  * **Killer Openers:** A nivel general, se está notando un estancamiento. Se pide innovación y no ser tan continuistas con las introducciones de semanas pasadas.
+  * **Importancia Visual:** Hay que darle mucha mayor relevancia a los Storyboards, ya que son la antesala directa de los anuncios publicitarios.
+* **Fechas Clave Comunes:**
+  * La "Retrospectiva" general está programada para el 7 de mayo.
+  * La primera semana del PPL será la semana posterior a la feria.
+
+---

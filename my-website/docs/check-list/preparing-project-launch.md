@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Checklist: Contenido para las presentaciones del Sprint PPL
 
-### Sprint PPL - Semana 1 (30/04/2026)
+### Sprint PPL - Semana 1 (30/04/2026) y Semana 2 (14/05/2026)
 
 #### Presentación Principal (10 minutos)
 
@@ -41,19 +41,3 @@ sidebar_position: 1
 - **5. Community Management:** Plan de gestión de comunidad: objetivos, acciones (qué, cuándo y dónde se publica), métricas de seguimiento e impacto esperado. Incluir estimación de impresiones y costes asociados.
 
 - **6. Material Promocional:** Inclusión de anuncios si no aparecen en la presentación principal.
-
----
-
-### Sprint PPL - Semana 2 (14/05/2026)
-
-#### Presentación Principal (10 minutos)
-
-**Estructura y Contenido de las Diapositivas**
-
-- TODO
-
-#### Presentación Auxiliar (5 minutos)
-
-**Estructura y Contenido de las Diapositivas**
-
-- TODO

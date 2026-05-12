@@ -21,3 +21,22 @@ sidebar_position: 5
   * **Refinamiento de Storyboards:** Para el storyboard de usuarios añadir un cierre con mayor impacto emocional o "final feliz" (slogan potente o imagen llamativa). Para el de inversores aportar datos más claros y convincentes sobre el Retorno de Inversión (ROI) para fortalecer la propuesta de negocio.
   * **Dilema de Gastos de Contratación:** Revisar la clasificación de los costes de contratación en el CAPEX. 
   * **Gestión de Horas:** Como medida preventiva para el futuro, intentar reducir al máximo ese pequeño margen de *overtime* para mantener la sostenibilidad del equipo.
+ 
+---
+
+## [Preparing Project Launch] – [Fecha: 30/04/2026]
+
+### 1. Nuestro Feedback Directo
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+* 🟢 **Fortalezas (Qué hemos hecho bien):**
+  * **Hilo conductor robusto:** El killer opener impacta y mantiene coherencia narrativa con el resto de la presentación. Ambas presentaciones perfectamente hiladas.
+  * **Estrategia de SEO:** El análisis y la presentación de las estrategias SEO destacan positivamente.
+  * **Community management:** Planificación del community management clara, utilizando un calendario semanal.
+  * **Gestión de riesgos:** El apartado de riesgos y planes de mitigación están bien trabajados y presentados.
+
+* 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
+  * **Anuncios:** Los anuncios son algo largos y se debe revisar la calidad del sonido para que no se distorsione.
+  * **Visibilidad de la Demo:** El contenido de la demo se ve algo pequeño. Se recomienda aplicar zoom para mejorar la legibilidad.
+  * **Exceso de detalle en coste:** La sección de costes está muy bien explicada pero hay mucho detalle. Se debe simplificar la información.
+  * **Oportunidades de inversión:** Falta información clave para convencer a inversores: destino del dinero, calendario de inversión, rentabilidad esperada y retorno. El anuncio de inversores debe responder "¿por qué invertir aquí?".

@@ -46,13 +46,30 @@ sidebar_position: 1
 ## [Entrega 2: PPL] – [Fecha: 14/05/2026]
 
 ### Nuestro Feedback Directo
+
 *Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 * 🟢 **Fortalezas (Qué hemos hecho bien):**
-  - TODO
+  - Muy buen enlace entre el killer opener y el anuncio.
+  - Buena evolución general de la estructura de la presentación.
+  - Ha gustado la parte en la que, después de la demo, se muestran funcionalidades extra de la aplicación.
+  - La presentación transmite una idea clara del producto y de su propuesta de valor.
+  - Buen enfoque visual y comunicativo en líneas generales.
 
 * 🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
-  - TODO
+  - Algunas partes resultan repetitivas o redundantes entre el anuncio para clientes, la demo y la explicación de funcionalidades extra.
+  - En la demo falta un poco más de hilo conductor y consistencia narrativa.
+  - En la demo, algunas funcionalidades o detalles importantes (como formulario) pasan demasiado rápido y no terminan de verse bien.
+  - Se recomienda hacer zoom o destacar visualmente aquellos elementos importantes de la demo.
+  - Da la sensación de que se está dando demasiado protagonismo a los competidores, explicando más lo que otros no hacen que lo que MeerKatters sí aporta.
+  - Hay que centrar más el discurso en el valor diferencial propio y simplificar la parte de competencia.
+  - Se menciona la estrategia de lanzamiento al inicio, pero después falta profundizar o conectar esa información más adelante.
+  - Cuando se hablen de métricas, deben mostrarse de forma más concreta y explícita en la presentación.
+  - Revisar el tiempo invertido entre killer opener, anuncios y demo para evitar consumir demasiado tiempo al inicio.
+  - La parte de finanzas e inversión queda algo incompleta o poco cerrada.
+  - En el vídeo para inversores faltan más detalles concretos sobre la recuperación de la inversión y las previsiones temporales.
 
 * **Acciones Tomadas / A realizar:**
-  - TODO
+  - Se ha revisado el killer opener, anuncio de clientes y demo para que no suene tan repetitivo, mejorando además aspectos como el hilo conductor, consistencia narrativa y el aumento de detalles en los formularios.
+  - Se ha rediseñado la diapositiva del análisis de competidores para enfatizar que MeerKatters es una solución centralizada que surge de soluciones de herramientas fragmentadas, sin enfocarse tanto en los propios competidores, sino en MeerKatters, indicando además el valor diferenciador que tiene.
+  - Se ha rediseñado la presentación para evitar consumir demasiado tiempo al inicio y evitar que la gente se desacople de la misma.

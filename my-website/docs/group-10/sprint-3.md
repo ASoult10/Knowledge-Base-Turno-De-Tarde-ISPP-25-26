@@ -6,9 +6,45 @@ sidebar_position: 3
 
 #  Feedback Grupo 10 - StreetAsk
 
-## [Entrega 4: S3] – Fecha: 09/04/2026
+## [Entrega 1: S3] – Fecha: 26/03/2026
 
 ### Nuestro Feedback Directo
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
+
+🟢 **Fortalezas (Qué hemos hecho bien):**
+
+- **Presentación e Impacto:** Killer Opener de gran nivel. Muy buen tono durante toda la intervención y explicación perfecta.
+- **Propuesta de Valor:** Excelente diferenciación respecto a los competidores y claridad en el enfoque.
+- **Demo y Visuales:** Demo súper dinámica y clara.
+- **Metodología y Análisis:**
+    - Categorización visual de problemas y medidas.
+    - Análisis de métricas muy visual.
+    - Inclusión de flujos de trabajo (workflows), rendimiento, despliegue y calidad.
+- **Estrategia de Usuario:** Muy buenos los incentivos para los usuarios.
+- **Finanzas:** Recogida de costes de forma breve y concisa, incluyendo correctamente las reservas de contingencia.
+
+
+🔴 **Debilidades (Qué tenemos que mejorar/corregir):**
+
+- **Términos Legales de API:** Es crítico investigar la licencia de la API de mapas; si el proyecto genera ingresos, es obligatorio pagar por su uso comercial.
+- **Métricas de Resolución:** En la sección de problemas, han faltado métricas específicas para evaluar si las respuestas y soluciones aplicadas están siendo realmente efectivas.
+- **Previsión Salarial:** Los sueldos indicados son demasiado bajos; la estimación debe ajustarse a la realidad del mercado, ya que seguramente el coste sea mayor.
+- **Terminología Financiera:** No debe utilizarse el término "Punto Muerto"; el concepto correcto a emplear es **Punto de Equilibrio**.
+
+
+🛠️ **Acciones Tomadas / A realizar:**
+
+- **Ajuste Financiero:** Corregir la terminología técnica en las gráficas, subir la previsión salarial y desglosar el coste de licencias comerciales de la API.
+- **Evolución de Métricas:** Definir indicadores de éxito para las soluciones planteadas ante los problemas detectados.
+- **Investigación Legal:** Consultar los tiers de precios de la API de mapas para entornos de producción con monetización.
+
+
+---
+
+## [Entrega 2: S3] – Fecha: 09/04/2026
+
+### Nuestro Feedback Directo
+*Anotaciones sobre lo que los profesores han comentado específicamente sobre nuestra presentación y proyecto.*
 
 🟢 **Fortalezas (Qué hemos hecho bien):**
 

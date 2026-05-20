@@ -44,3 +44,27 @@ sidebar_position: 5
   * Aterrizar los perfiles de usuario mediante características concretas, necesidades específicas y ejemplos claros de uso.
   * Mejorar la coherencia visual y narrativa entre **killer opener + introducción + demo**, reforzando la sensación de producto sólido y conectado.
   * Explicar con mayor claridad el **criterio de selección de equipos** y cómo este aporta valor dentro del proyecto.
+ 
+## [Entrega 5: PPL] – Fecha: 14/05/2026
+
+### 1. Nuestro Feedback Directo
+*Anotaciones sobre los comentarios realizados por los profesores respecto a la presentación orientada a clientes e inversores.*
+
+* 🟢 **Fortalezas (Lo que hemos logrado y debemos mantener):**
+  * **Buena evolución del enfoque comercial:** La presentación muestra una orientación más clara hacia la venta del producto y la captación de interés externo.
+  * **Mejor conexión entre narrativa y producto:** Se percibe una mayor relación entre los distintos elementos audiovisuales y la propuesta de valor de KeaKit.
+  * **Capacidad de adaptación al feedback anterior:** Se valora positivamente la implementación de cambios respecto a la revisión previa, especialmente en coherencia narrativa y simplificación de contenido.
+
+* 🔴 **Debilidades (Áreas de mejora y puntos de dolor):**
+  * **Escenario pesimista innecesario en el vídeo de inversores:** La inclusión de un caso negativo transmite inseguridad y resta fuerza al discurso orientado a inversión.
+  * **Falta concreción sobre el destino de la inversión:** Sigue sin quedar suficientemente claro en qué se utilizaría exactamente el dinero aportado por los inversores.
+  * **Final confuso en el anuncio orientado a clientes:** No se entiende correctamente que la aplicación se está utilizando para confirmar la recepción del pedido.
+  * **Duración insuficiente de la presentación:** La exposición termina con demasiado tiempo sobrante, generando sensación de falta de contenido o profundidad.
+  * **Perfil de usuario demasiado genérico:** El perfil denominado “persona normal” resulta ambiguo y poco útil para definir correctamente el público objetivo.
+
+* 🛠️ **Acciones Tomadas / A realizar (Mejoras de formato, narrativa y enfoque inversor):**
+  * Eliminar el escenario pesimista del vídeo de inversores para reforzar una imagen más sólida y confiable del proyecto.
+  * Explicar de forma concreta y visual a qué se destinaría la inversión recibida, detallando objetivos, áreas de crecimiento y mejoras previstas.
+  * Modificar el final del anuncio de clientes para que se entienda claramente que la app se utiliza para confirmar la recepción del pedido.
+  * Ampliar la presentación incorporando más contenido relevante que aporte profundidad y permita aprovechar mejor el tiempo disponible.
+  * Eliminar el perfil de “persona normal” y sustituirlo por perfiles de usuario más concretos, específicos y alineados con necesidades reales.
